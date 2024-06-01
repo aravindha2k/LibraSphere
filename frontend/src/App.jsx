@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>LibraSphere Home Page</h1>
+      <h1>LibraSphere Initial Home Page</h1>
     </>
   )
 }
